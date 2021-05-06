@@ -2,7 +2,7 @@
 
 To install this Api you should follow the next Septs.
 
-1. set  the data base credentials (const paramsConnection) in the mysql.js file.
+1. Request the Data Base credentials and access by an email to the next account: dcaceres3@gmail.com.
 2. in your local environment you must compress the files into a zip file, the file name is not relevant.
 3. In your AWS Account you should create  a lambda with the following characteristics:
       a. api gateway triggers permissions.
